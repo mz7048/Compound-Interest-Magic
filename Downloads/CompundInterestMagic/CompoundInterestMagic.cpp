@@ -11,7 +11,7 @@ int main()
     while(true){
         
         float meanReverage;
-        cout << "Input the mean return on " << i << " month\n";
+        cout << "Input the mean return on " << i << "month\n";
         cin >> meanReverage;
         
         if(!meanReverage) break;
